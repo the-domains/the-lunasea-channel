@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3145458
+  lightness: 0.353841
+  brandStrength: 0.1077336
+  brandColors:
+    - '#FBFBF9'
+    - '#85914D'
+    - '#C6CAB5'
+    - '#223E55'
+    - '#801B1D'
+  rhythmicContrast: 0.3027612
+typography_spectrum: 0.2867384
+name: The LunaSea Channel
