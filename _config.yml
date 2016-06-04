@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3145458
+  brandStrength: 0.5532581
   lightness: 0.353841
-  brandStrength: 0.1077336
   brandColors:
-    - '#FBFBF9'
-    - '#85914D'
-    - '#C6CAB5'
-    - '#223E55'
-    - '#801B1D'
+    - '#F5F4F0'
+    - '#3A515F'
+    - '#903A3A'
+    - '#9CA282'
+    - '#FC9254'
   rhythmicContrast: 0.3027612
 typography_spectrum: 0.2867384
+layout_spectrum: 1
 name: The LunaSea Channel
